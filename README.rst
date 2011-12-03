@@ -15,7 +15,7 @@ Simple as::
 
     $ easy_install pep8nazi 
 
-Or if you prefer:
+Or if you prefer::
 
     $ pip install pep8nazi
 
