@@ -19,5 +19,11 @@ Or if you prefer::
 
     $ pip install pep8nazi
 
+Usage
+=====
+
+Import it at the top of your module, before everything::
+
+    $ import pep8nazi
 
 .. # vim: syntax=rst expandtab tabstop=4 shiftwidth=4 shiftround
